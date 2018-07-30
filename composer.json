@@ -1,0 +1,10 @@
+{
+    "name": "eaglewu/test-trigger-cnpkg-mirror",
+    "authors": [
+        {
+            "name": "eagle",
+            "email": "eaglewudi@gmail.com"
+        }
+    ],
+    "require": {}
+}
